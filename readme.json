@@ -15,7 +15,7 @@
                 "last_commit": "2026-02-07T08:39:55Z",
                 "owner": "ggerganov",
                 "repo": "whisper.cpp",
-                "stars": 46519
+                "stars": 46536
               }
             }
           ],
@@ -27,7 +27,7 @@
             "last_commit": "2026-02-07T08:39:55Z",
             "owner": "ggerganov",
             "repo": "whisper.cpp",
-            "stars": 46519
+            "stars": 46536
           }
         },
         {
@@ -40,7 +40,7 @@
             "last_commit": "2026-01-27T09:42:11Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 20018
+            "stars": 20028
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "guillaumekln",
             "repo": "faster-whisper",
-            "stars": 20815
+            "stars": 20830
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-02-07T10:40:41Z",
             "owner": "chidiwilliams",
             "repo": "Buzz",
-            "stars": 17729
+            "stars": 17738
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-01-31T18:46:48Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1345
+            "stars": 1347
           }
         },
         {
@@ -233,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-07T10:00:16Z",
+            "last_commit": "2026-02-08T04:28:53Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 3607
+            "stars": 3619
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-02-07T08:44:57Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 609
+            "stars": 610
           }
         }
       ],
@@ -286,7 +286,7 @@
             "last_commit": "2025-09-09T01:08:09Z",
             "owner": "abdeladim-s",
             "repo": "subsai",
-            "stars": 1635
+            "stars": 1636
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 2841
+            "stars": 2842
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2025-11-26T11:47:56Z",
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
-            "stars": 5347
+            "stars": 5348
           }
         },
         {
@@ -477,10 +477,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:23:38.282Z",
+    "last_updated": "2026-02-08T04:31:07.722Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "source_repository": "v1nvn/enhansome-whisper",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
