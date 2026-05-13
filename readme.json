@@ -12,10 +12,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-05-12T04:45:43Z",
+                "last_commit": "2026-05-13T05:32:00Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 49589
+                "stars": 49624
               }
             }
           ],
@@ -24,10 +24,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-12T04:45:43Z",
+            "last_commit": "2026-05-13T05:32:00Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 49589
+            "stars": 49624
           }
         },
         {
@@ -40,7 +40,7 @@
             "last_commit": "2026-04-04T06:41:42Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 21833
+            "stars": 21853
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 22836
+            "stars": 22859
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2025-09-09T07:04:36Z",
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2811
+            "stars": 2812
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2024-02-21T17:57:49Z",
             "owner": "YuanGongND",
             "repo": "whisper-at",
-            "stars": 415
+            "stars": 416
           }
         }
       ],
@@ -167,7 +167,7 @@
             "last_commit": "2026-05-04T17:23:48Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 19175
+            "stars": 19189
           }
         },
         {
@@ -192,10 +192,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-11T20:18:06Z",
+            "last_commit": "2026-05-12T22:56:17Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1100
+            "stars": 1143
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-04-24T17:02:33Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1460
+            "stars": 1462
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-02-07T06:48:45Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -246,24 +246,16 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-11T18:43:44Z",
+            "last_commit": "2026-05-12T08:35:44Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 4913
+            "stars": 4925
           }
         },
         {
           "children": [],
           "description": "AI voice dictation for Mac. (FOSS)",
-          "title": "Ito AI",
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-01-13T18:13:45Z",
-            "owner": "heyito",
-            "repo": "ito",
-            "stars": 561
-          }
+          "title": "Ito AI"
         },
         {
           "children": [],
@@ -388,7 +380,7 @@
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3023
+            "stars": 3026
           }
         },
         {
@@ -401,7 +393,7 @@
             "last_commit": "2026-02-14T19:16:02Z",
             "owner": "Softcatala",
             "repo": "whisper-ctranslate2",
-            "stars": 1302
+            "stars": 1304
           }
         },
         {
@@ -482,7 +474,7 @@
             "last_commit": "2024-04-23T19:24:04Z",
             "owner": "ArthurFDLR",
             "repo": "whisper-youtube",
-            "stars": 419
+            "stars": 420
           }
         }
       ],
@@ -495,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:35:34.488Z",
+    "last_updated": "2026-05-13T05:45:05.035Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "source_repository": "v1nvn/enhansome-whisper",
     "source_repository_description": null,
