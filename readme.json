@@ -15,7 +15,7 @@
                 "last_commit": "2026-05-19T06:58:43Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 49901
+                "stars": 49942
               }
             }
           ],
@@ -27,7 +27,7 @@
             "last_commit": "2026-05-19T06:58:43Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 49901
+            "stars": 49942
           }
         },
         {
@@ -40,7 +40,7 @@
             "last_commit": "2026-04-04T06:41:42Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 21985
+            "stars": 22000
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 23006
+            "stars": 23031
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4687
+            "stars": 4686
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2025-09-09T07:04:36Z",
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2813
+            "stars": 2812
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2024-02-21T17:57:49Z",
             "owner": "YuanGongND",
             "repo": "whisper-at",
-            "stars": 416
+            "stars": 417
           }
         }
       ],
@@ -167,7 +167,7 @@
             "last_commit": "2026-05-16T11:02:28Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 19308
+            "stars": 19326
           }
         },
         {
@@ -192,10 +192,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-19T20:47:40Z",
+            "last_commit": "2026-05-20T22:38:25Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1201
+            "stars": 1210
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-04-24T17:02:33Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1466
+            "stars": 1468
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-02-07T06:48:45Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-20T06:03:13Z",
+            "last_commit": "2026-05-21T05:13:00Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5002
+            "stars": 5020
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-04-20T01:29:19Z",
             "owner": "absadiki",
             "repo": "subsai",
-            "stars": 1657
+            "stars": 1658
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-02-14T19:16:02Z",
             "owner": "Softcatala",
             "repo": "whisper-ctranslate2",
-            "stars": 1303
+            "stars": 1304
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-09-12T02:54:11Z",
             "owner": "saharmor",
             "repo": "whisper-playground",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -487,7 +487,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:03:49.176Z",
+    "last_updated": "2026-05-21T06:06:47.752Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "source_repository": "v1nvn/enhansome-whisper",
     "source_repository_description": null,
